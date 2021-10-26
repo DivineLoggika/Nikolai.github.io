@@ -1,7 +1,7 @@
 # Отчеты о лабораторных работах
 # Студента группы [ИДБ-18-07] Чернат Н.Н.
 
-## [Лабораторная 1-3 (Первый модуль)](https://github.com/DivineLoggika/Nikolai.github.io/wiki)
+## [Лабораторная работа 1-3 (Первый модуль)](https://github.com/DivineLoggika/Nikolai.github.io/wiki)
 
 ## [Лабораторная работа 4-6 (Деловая игра)](https://github.com/lulu2kan/DeusVult/wiki/Отчет-(Лабораторная-работа-4-6))
 	
