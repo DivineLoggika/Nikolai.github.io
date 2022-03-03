@@ -5,3 +5,4 @@
 
 ## [Лабораторная работа 4-6 (Деловая игра)](https://github.com/DivineLoggika/Nikolai.github.io/wiki/Лабораторная-работа-№4,-5,-6)
 	
+## [KK]
