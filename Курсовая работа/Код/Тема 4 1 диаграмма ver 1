@@ -1,0 +1,52 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Пользователь_системы"
+actor "Учитель"
+actor "Ученик"
+actor "Модуль_заданий" 
+actor "Программный_модуль" 
+
+Модуль_заданий --> Программный_модуль
+
+rectangle Ивент-мероприятие {
+usecase case1 as "Проходить ивент-мероприятие"
+usecase case2 as "Проходить уровень"
+usecase case3 as "Произвести вход в аккаунт"
+usecase case4 as "Получать статистику о пользователях"
+usecase case5 as "Создать персонажа"
+usecase case6 as "Улучшать персонажа"
+usecase case7 as "Получать награды за прохождение"
+usecase case8 as "Открыть уровень"
+usecase case9 as "Проводить ивент-мероприятие"
+
+ Пользователь_системы <-- Учитель
+ Пользователь_системы <-- Ученик
+ Учитель -- case9
+ Ученик -- case1
+ (case5) .> (case1) : extends
+ (case1) .> (case2) : include
+ (case2) .> (case7) : include
+ (case6) .> (case7) : extends
+ (case1) .> (case3) : include
+ (case8) .> (case3) : include
+ (case9) .> (case8) : include
+ (case9) .> (case4) : include
+ (case9) .> (case3) : include
+ (case4) .> (case7) : include 
+
+ case1 -- Модуль_заданий 
+ case2 -- Модуль_заданий
+ case3 -- Модуль_заданий 
+ case4 -- Модуль_заданий
+ case5 -- Модуль_заданий 
+ case6 -- Модуль_заданий
+ case7 -- Модуль_заданий
+ case8 -- Модуль_заданий  
+}
+
+@enduml
