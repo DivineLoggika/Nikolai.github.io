@@ -1,0 +1,57 @@
+@startuml
+skinparam monochrome true
+
+actor Пользователь as user
+participant "Клиент сайта" as cli
+participant "Сервер web-site" as serv
+database "База данных" as base
+
+user -> cli: Авторизироваться на сайте
+activate cli
+cli -> serv : Запросить данные о введенном пользователе
+activate serv
+serv -> base : Запросить поиск пользователя в базе данных
+activate base
+base --> serv
+deactivate base
+serv --> cli
+deactivate serv
+cli --> user   
+deactivate cli
+
+user -> cli: Отправить запрос на открытие уровня
+activate cli
+cli -> serv : Запросить данные о введенном уровне
+activate serv
+serv -> base : Запросить поиск введенного уровня в базе данных
+activate base
+base --> serv
+deactivate base
+serv --> cli
+deactivate serv
+cli --> user   
+deactivate cli
+
+user -> cli: Отправить запрос на фомирование статистики о пройденном уровне
+activate cli
+cli -> serv : Запросить данные о пользователях, прошедших уровень
+activate serv
+serv -> base : Запросить поиск пользователей, прошедших уровень
+activate base
+base --> serv
+deactivate base
+serv --> cli
+deactivate serv
+cli --> user   
+deactivate cli
+
+user -> cli: Отправить запрос формирование общей статистики о пройденном уровне
+activate cli
+cli -> serv : Запросить формирование общей статистики о пройденном уровне
+activate serv
+serv --> cli
+deactivate serv
+cli --> user   
+deactivate cli
+
+@enduml
