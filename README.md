@@ -33,7 +33,7 @@ Landing Page проекта - [TBD]
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
-[Отчет]([https://docs.google.com/document/d/1caqfV8wfF1Q10t4vSO-bQVSbTuFQf8Y1E9HIQ_iqWUo/edit?usp=sharing](https://drive.google.com/file/d/1lWGc5XtTDi-xsn0tdHUg5_oo27pTgJQ9/view?pli=1))
+[Отчет](https://drive.google.com/file/d/1lWGc5XtTDi-xsn0tdHUg5_oo27pTgJQ9/view?pli=1)
 
 ## Бакалавриат - архив
 ## [Лабораторная работа 1-3 (Первый модуль)](https://github.com/DivineLoggika/Nikolai.github.io/wiki/Лабораторная-работа-№1,-2,-3)
