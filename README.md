@@ -41,6 +41,7 @@ Landing Page проекта - [TBD]
 
 ## Экзаменационный билет №14
 Ответ на экзаменационный билет доступен по ссылке: [билет №14](https://github.com/stankin/inet-2022/wiki/exam14)
+[Commit в билетах](https://github.com/stankin/inet-2022/wiki/exam14/_compare/4128d297275aaa1f11078de2b0feb77b054a6784...239c95761b22f7a2e36a07d12844886979587c48)
 
 ## Бакалавриат - архив
 ## [Лабораторная работа 1-3 (Первый модуль)](https://github.com/DivineLoggika/Nikolai.github.io/wiki/Лабораторная-работа-№1,-2,-3)
