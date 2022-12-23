@@ -29,7 +29,7 @@
 
 После этого, было спроектировано и разработано приложение, ознакомиться с которым можно по [целевой странице](https://welpodron.github.io/kill_me/) - [репозиторий проекта](https://github.com/lulu2kan/Megalul)
 
-Landing Page проекта - [TBD](https://alekseygitpub.github.io/)
+[Визитка проекта](https://alekseygitpub.github.io/)
 
 Также, проект был выдвинут на конкурс - [ссылка](https://idmit.ru/)
 
