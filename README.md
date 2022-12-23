@@ -42,7 +42,7 @@
 
 ![](https://github.com/DivineLoggika/Nikolai.github.io/blob/ad9c64cc97dc32394d25af310f5d4497798da581/ForRef/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-12-23%20130231.png)
 
-Когда пользователь нажимал на выбплывающее облако, его переводят на соотвествующую страницу
+Когда пользователь нажимал на выбплывающее облако, его переводило на соотвествующую страницу
 
 ![](https://github.com/DivineLoggika/Nikolai.github.io/blob/1878a012140ac578b0957e095a5a00272c2f1477/ForRef/Kogda.png)
 
