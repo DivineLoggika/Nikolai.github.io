@@ -52,15 +52,34 @@
 
 После этого, было спроектировано и разработано приложение, ознакомиться с которым можно по [целевой странице](https://welpodron.github.io/kill_me/) - [репозиторий проекта](https://github.com/lulu2kan/Megalul)
 
-[Визитка проекта](https://alekseygitpub.github.io/)
+На заключительной стадии была разработана [визитка проекта](https://alekseygitpub.github.io/)
+Которая кратко описывала: 
 
-Также, проект был выдвинут на конкурс - [ссылка](https://idmit.ru/)
+1. По какому сайту будет проходить поиск информации
+
+![](https://github.com/DivineLoggika/Nikolai.github.io/blob/b06f41eea97f17621225bc850cba1db105437678/ForRef/Who.png)
+
+2. Что из себя представляет создаваемое веб-приложение (с помощью вложенного видео)
+
+![](https://github.com/DivineLoggika/Nikolai.github.io/blob/b06f41eea97f17621225bc850cba1db105437678/ForRef/Video.png)
+
+3. Актуальность разработки и информацию о создателях данного веб-приложения
+
+![](https://github.com/DivineLoggika/Nikolai.github.io/blob/b06f41eea97f17621225bc850cba1db105437678/ForRef/AAR.png)
+
+4. А также дополнительные функции на подобие: отправка сообщения разработчиком или ссылки на гитхаб страницу и само веб-приложение
+
+![](https://github.com/DivineLoggika/Nikolai.github.io/blob/b06f41eea97f17621225bc850cba1db105437678/ForRef/DopSved.png)
+
+Также, проект был выдвинут на конкурс - [ссылка](https://idmit.ru/), для которого и использовалась визитка
 
 # Лабораторная 3
 
 В рамках третьей лаборатороной работы:
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
+
+![](https://github.com/DivineLoggika/Nikolai.github.io/blob/b06f41eea97f17621225bc850cba1db105437678/ForRef/Cisco.png)
 
 Отчет для просмотра доступен по [ссылке](https://drive.google.com/file/d/1lWGc5XtTDi-xsn0tdHUg5_oo27pTgJQ9/view?pli=1)
 
