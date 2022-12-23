@@ -49,11 +49,11 @@
 
 Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
 
-[Просмотреть отчет](https://drive.google.com/file/d/1lWGc5XtTDi-xsn0tdHUg5_oo27pTgJQ9/view?pli=1)
+Отчет для просмотра доступен по [ссылке](https://drive.google.com/file/d/1lWGc5XtTDi-xsn0tdHUg5_oo27pTgJQ9/view?pli=1)
 
-[Скачать отчет](https://github.com/DivineLoggika/Nikolai.github.io/blob/main/PCT%20files/Отчет_Чернат%20Николай%20ИДБ-18-07%20Лабораторная%20работа%20№6.docx?raw=true)
+Скачать отчет можно по [ссылке](https://github.com/DivineLoggika/Nikolai.github.io/blob/main/PCT%20files/Отчет_Чернат%20Николай%20ИДБ-18-07%20Лабораторная%20работа%20№6.docx?raw=true)
 
-[Скачать сценарий для отчета](https://github.com/DivineLoggika/Nikolai.github.io/blob/main/PCT%20files/Сценарий_Чернат%20Николай%20ИДБ-18-07%20Лабораторная%20работа%20№6.pkt?raw=true)
+Скачать сценарий можно по [ссылке](https://github.com/DivineLoggika/Nikolai.github.io/blob/main/PCT%20files/Сценарий_Чернат%20Николай%20ИДБ-18-07%20Лабораторная%20работа%20№6.pkt?raw=true)
 
 # Экзаменационный билет №14
 Ответ на экзаменационный билет доступен по ссылке: [билет №14](https://github.com/stankin/inet-2022/wiki/exam14) 
